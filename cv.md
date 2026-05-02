@@ -5,4 +5,7 @@
 
 
 #### **Contact**
-Phone
+Telegram `@linka_eto_ya`
+Discord `linka (@linkaEtoYa)`
+Github `linkaEtoYa`
+Email `[vavulina.lina@gmail.com](mailto:vavulina.lina@gmail.com)`
