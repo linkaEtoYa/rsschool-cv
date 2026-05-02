@@ -12,3 +12,5 @@ Discord `linka (@linkaEtoYa)`
 Github `linkaEtoYa`
 
 Email `vavulina.lina@gmail.com`
+
+Instagram `[@linka_eto_ya](https://www.instagram.com/linka_eto_ya?igsh=MWR5ZW1hcGZ2bmxpaw==)`
