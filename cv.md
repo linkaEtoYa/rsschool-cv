@@ -25,7 +25,6 @@ Skills
 * JavaScript (ES6+)
 * Git, GitHub
 * VS Code, Chrome DevTools
-* Адаптивная и кроссбраузерная верстка
 * Adobe Photoshop, Illustrator
 
 ## Code example:
